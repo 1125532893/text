@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\myspace\WorkSpace\androidstudioprojects\textshaomian\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="C:\myspace\WorkSpace\androidstudioprojects\textshaomian\build\intermediates\pre-dexed\debug\android-support-v4-0673c7180c46e8d7c41927ac2f58b989f917db44.jar" />
+    </item>
+    <item
+        jar="C:\myspace\WorkSpace\androidstudioprojects\textshaomian\libs\locSDK_5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="389047997db28fcb848dc4247c5590a08b7ff769">
+        <dex dex="C:\myspace\WorkSpace\androidstudioprojects\textshaomian\build\intermediates\pre-dexed\debug\locSDK_5.2-2a53b0647a2f286ab4c661874126166c02401eb7.jar" />
+    </item>
+
+</items>
